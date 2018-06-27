@@ -1,3 +1,7 @@
 This is a test file
+<<<<<<< HEAD
 
 This is my contribution -Nolan
+=======
+blabla
+>>>>>>> 1993436e4d40532321ae78a634d6fb617f84ebc1
